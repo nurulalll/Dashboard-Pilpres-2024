@@ -1,4 +1,4 @@
-python
+python --version
 plotly
 plotly-express
 streamlit

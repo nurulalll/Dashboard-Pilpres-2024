@@ -4,3 +4,4 @@ streamlit
 wordcloud
 transformers
 openpyxl
+matplotlib.pyplot

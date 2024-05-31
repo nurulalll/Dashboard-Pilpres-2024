@@ -1,4 +1,6 @@
 plotly
 plotly-express
-wordcloud 
+streamlit
+wordcloud
 transformers
+openpyxl
